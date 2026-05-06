@@ -1,0 +1,150 @@
+{
+    "Product Portfolio Performance": {
+        "analyticsProduct": "Product Portfolio Analytics",
+        "abbreviation": "ppa"
+    },
+    "Formulation Intelligence": {
+        "analyticsProduct": "GenAI Formulation Assistant",
+        "abbreviation": "fia"
+    },
+    "Sensory Intelligence": {
+        "analyticsProduct": "Sensory Prediction AI",
+        "abbreviation": "spi"
+    },
+    "Packaging Cost & Sustainability": {
+        "analyticsProduct": "Sensible Packaging Design",
+        "abbreviation": "spd"
+    },
+    "Innovation Opportunity Intelligence": {
+        "analyticsProduct": "New Revenue Stream",
+        "abbreviation": "nrs"
+    },
+    "Enterprise Business Plan": {
+        "analyticsProduct": "Integrated Business Planning",
+        "abbreviation": "ibp"
+    },
+    "Sales & Demand Plan": {
+        "analyticsProduct": "Volumetric Forecast",
+        "abbreviation": "vf"
+    },
+    "Channel & Customer Plan": {
+        "analyticsProduct": "Omni Channel",
+        "abbreviation": "oc"
+    },
+    "Supplier Contract Intelligence": {
+        "analyticsProduct": "Contract Analytics",
+        "abbreviation": "ca"
+    },
+    "Supplier Risk Intelligence": {
+        "analyticsProduct": "Supplier Risk 360",
+        "abbreviation": "sr"
+    },
+    "Manufacturing Quality Intelligence": {
+        "analyticsProduct": "Computer Vision Quality Control",
+        "abbreviation": "cvqc"
+    },
+    "Manufacturing Efficiency Intelligence": {
+        "analyticsProduct": "Predictive Asset Maintenance",
+        "abbreviation": "pam"
+    },
+    "Inventory Availability Intelligence": {
+        "analyticsProduct": "Inventory Optimization (MEIO)",
+        "abbreviation": "meio"
+    },
+    "Warehouse Operations Intelligence": {
+        "analyticsProduct": "Retail Execution & Compliance",
+        "abbreviation": "rec"
+    },
+    "Market Performance Intelligence": {
+        "analyticsProduct": "Brand Equity Tracking",
+        "abbreviation": "bet"
+    },
+    "Consumer Switching Intelligence": {
+        "analyticsProduct": "Sentiment Analysis",
+        "abbreviation": "sa"
+    },
+    "RGM Pricing, Architecture & Margin Management": {
+        "analyticsProduct": "RGM",
+        "abbreviation": "rgm"
+    },
+    "Price Effectiveness Intelligence": {
+        "analyticsProduct": "Price Pack Architecture",
+        "abbreviation": "ppa2"
+    },
+    "Trade Investment Intelligence": {
+        "analyticsProduct": "Trade Promotion Optimization (TPO)",
+        "abbreviation": "tpo"
+    },
+    "Route-to-Market Intelligence": {
+        "analyticsProduct": "Route Optimization",
+        "abbreviation": "rtm"
+    },
+    "Sales Productivity Intelligence": {
+        "analyticsProduct": "Strategic Workforce Planning",
+        "abbreviation": "swp"
+    },
+    "Trade Settlement Intelligence": {
+        "analyticsProduct": "Fraud Detection (AP/AR)",
+        "abbreviation": "fraud"
+    },
+    "Liquidity Intelligence": {
+        "analyticsProduct": "Cashflow Forecasting",
+        "abbreviation": "cf"
+    },
+    "Contract Risk Intelligence": {
+        "analyticsProduct": "Contract Risk Analytics",
+        "abbreviation": "cra"
+    },
+    "Platform Reliability Intelligence": {
+        "analyticsProduct": "AIOps & Observability",
+        "abbreviation": "aiops"
+    },
+    "ESG Performance Intelligence": {
+        "analyticsProduct": "Emission and GHG Production",
+        "abbreviation": "esg"
+    },
+    "ESG Compliance Intelligence": {
+        "analyticsProduct": "Regulatory Intelligence",
+        "abbreviation": "reg"
+    },
+    "Customer & Outlet Master": {
+        "analyticsProduct": "Customer ID & Record Management",
+        "abbreviation": "cid"
+    },
+    "Data Quality & Trust Foundation": {
+        "analyticsProduct": "Data Observability",
+        "abbreviation": "dq"
+    },
+    "Campaign Performance Intelligence": {
+        "analyticsProduct": "Campaign Effectiveness",
+        "abbreviation": "cpi"
+    },
+    "Consumer Personalization Intelligence": {
+        "analyticsProduct": "Personalization Engine",
+        "abbreviation": "pe"
+    },
+    "DTC Customer Value Intelligence": {
+        "analyticsProduct": "DTC Customer Lifetime Value",
+        "abbreviation": "clv"
+    },
+    "POS Segmentation Intelligence": {
+        "analyticsProduct": "POS Segmentation",
+        "abbreviation": "pos"
+    },
+    "Enterprise Knowledge Intelligence": {
+        "analyticsProduct": "Gen AI Knowledge Base (RAG)",
+        "abbreviation": "rag"
+    },
+    "Employee Retention Intelligence": {
+        "analyticsProduct": "Attrition Analytics",
+        "abbreviation": "attr"
+    },
+    "Credit & Risk Intelligence": {
+        "analyticsProduct": "Credit Risk",
+        "abbreviation": "cr"
+    },
+    "Content Velocity Intelligence": {
+        "analyticsProduct": "GenAI Content Factory",
+        "abbreviation": "gcf"
+    }
+}

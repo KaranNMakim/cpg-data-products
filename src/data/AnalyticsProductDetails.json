@@ -1,0 +1,306 @@
+[
+    {
+        "analyticsProduct": "AIOps & Observability",
+        "businessPurpose": "Ensures reliability and performance of enterprise data and analytics platforms through proactive monitoring and issue detection.",
+        "industry": "All Industries",
+        "keyConsumers": "IT, Data Engineering, Platform Operations",
+        "entities": "System, Application, Logs, Metrics",
+        "businessImpact": "Operational resilience, cost reduction"
+    },
+    {
+        "analyticsProduct": "Attrition Analytics",
+        "businessPurpose": "Identifies drivers of employee attrition to support retention planning and workforce stability.",
+        "industry": "All Industries",
+        "keyConsumers": "HR, Leadership",
+        "entities": "Employee, Role, Tenure",
+        "businessImpact": "Cost reduction, workforce continuity"
+    },
+    {
+        "analyticsProduct": "Brand Equity Tracking",
+        "businessPurpose": "Measures brand strength and consumer perception to guide marketing investment and brand strategy.",
+        "industry": "Consumer Goods, Retail",
+        "keyConsumers": "Marketing, Brand Teams",
+        "entities": "Brand, Customer, Market",
+        "businessImpact": "Brand value growth"
+    },
+    {
+        "analyticsProduct": "Campaign Effectiveness",
+        "businessPurpose": "Evaluates marketing campaign performance to optimize spend allocation and return on investment.",
+        "industry": "Consumer Goods, Retail",
+        "keyConsumers": "Marketing",
+        "entities": "Campaign, Channel, Customer",
+        "businessImpact": "Revenue growth, ROI improvement"
+    },
+    {
+        "analyticsProduct": "Cashflow Forecasting",
+        "businessPurpose": "Forecasts cash inflows and outflows to support liquidity management and financial planning.",
+        "industry": "All Industries",
+        "keyConsumers": "Finance, Treasury",
+        "entities": "Cash, Account, Time",
+        "businessImpact": "Financial stability"
+    },
+    {
+        "analyticsProduct": "Computer Vision Quality Control",
+        "businessPurpose": "Automates product quality inspection using image analysis to detect defects early.",
+        "industry": "Manufacturing",
+        "keyConsumers": "Operations, Quality",
+        "entities": "Product, Image, Defect",
+        "businessImpact": "Quality improvement, cost reduction"
+    },
+    {
+        "analyticsProduct": "Contract Analytics",
+        "businessPurpose": "Analyzes contractual terms and compliance to reduce leakage and improve governance.",
+        "industry": "All Industries",
+        "keyConsumers": "Legal, Procurement",
+        "entities": "Contract, Vendor, Clause",
+        "businessImpact": "Risk reduction"
+    },
+    {
+        "analyticsProduct": "Contract Risk Analytics",
+        "businessPurpose": "Assesses contractual risk exposure to support compliance and mitigation decisions.",
+        "industry": "All Industries",
+        "keyConsumers": "Legal, Compliance",
+        "entities": "Contract, Obligation, Risk",
+        "businessImpact": "Risk mitigation"
+    },
+    {
+        "analyticsProduct": "Credit Risk",
+        "businessPurpose": "Evaluates counterparty creditworthiness to minimize financial exposure.",
+        "industry": "BFSI, Consumer Goods",
+        "keyConsumers": "Finance, Risk",
+        "entities": "Customer, Credit Score",
+        "businessImpact": "Loss prevention"
+    },
+    {
+        "analyticsProduct": "Customer ID & Record Management",
+        "businessPurpose": "Creates a single, trusted customer and outlet identity across enterprise systems.",
+        "industry": "Consumer Goods, Retail",
+        "keyConsumers": "Sales, Marketing, Data",
+        "entities": "Customer, Outlet",
+        "businessImpact": "Data consistency, CX improvement"
+    },
+    {
+        "analyticsProduct": "Data Observability",
+        "businessPurpose": "Monitors data quality, freshness, and reliability across pipelines to ensure trusted analytics.",
+        "industry": "All Industries",
+        "keyConsumers": "Data Engineering, Analytics",
+        "entities": "Dataset, Pipeline",
+        "businessImpact": "Trust, reliability"
+    },
+    {
+        "analyticsProduct": "DTC Customer Lifetime Value",
+        "businessPurpose": "Quantifies long-term value of direct consumers to optimize acquisition and retention strategies.",
+        "industry": "Consumer Goods, E-Commerce",
+        "keyConsumers": "Marketing, DTC",
+        "entities": "Customer, Order",
+        "businessImpact": "Revenue growth"
+    },
+    {
+        "analyticsProduct": "Emission and GHG Production",
+        "businessPurpose": "Tracks greenhouse gas emissions to support sustainability initiatives and reporting.",
+        "industry": "Manufacturing, Consumer Goods",
+        "keyConsumers": "Sustainability, Operations",
+        "entities": "Plant, Emission",
+        "businessImpact": "Regulatory compliance"
+    },
+    {
+        "analyticsProduct": "Fraud Detection (AP/AR)",
+        "businessPurpose": "Detects anomalous payment and invoicing behavior to prevent financial fraud.",
+        "industry": "All Industries",
+        "keyConsumers": "Finance, Audit",
+        "entities": "Invoice, Payment",
+        "businessImpact": "Loss prevention"
+    },
+    {
+        "analyticsProduct": "Gen AI Knowledge Base (RAG)",
+        "businessPurpose": "Enables enterprise knowledge retrieval using AI to support faster and accurate decision-making.",
+        "industry": "All Industries",
+        "keyConsumers": "Employees, IT",
+        "entities": "Document, Knowledge Asset",
+        "businessImpact": "Productivity improvement"
+    },
+    {
+        "analyticsProduct": "GenAI Content Factory",
+        "businessPurpose": "Automates creation of marketing and commercial content using generative AI.",
+        "industry": "Consumer Goods, Retail",
+        "keyConsumers": "Marketing, E-Commerce",
+        "entities": "Content, Campaign",
+        "businessImpact": "Speed to market"
+    },
+    {
+        "analyticsProduct": "GenAI Formulation Assistant",
+        "businessPurpose": "Accelerates product formulation and R&D experimentation using AI-driven insights.",
+        "industry": "Consumer Goods, Manufacturing",
+        "keyConsumers": "R&D, Innovation",
+        "entities": "Formula, Ingredient",
+        "businessImpact": "Faster innovation"
+    },
+    {
+        "analyticsProduct": "GenAI HR Assistant",
+        "businessPurpose": "Supports HR operations through AI-driven employee insights and assistance.",
+        "industry": "All Industries",
+        "keyConsumers": "HR",
+        "entities": "Employee, Policy",
+        "businessImpact": "HR efficiency"
+    },
+    {
+        "analyticsProduct": "Integrated Business Planning",
+        "businessPurpose": "Aligns demand, supply, and financial plans for integrated enterprise decision-making.",
+        "industry": "Consumer Goods, Manufacturing",
+        "keyConsumers": "Planning, Leadership",
+        "entities": "Plan, Forecast",
+        "businessImpact": "Enterprise alignment"
+    },
+    {
+        "analyticsProduct": "Inventory Optimization (MEIO)",
+        "businessPurpose": "Optimizes inventory levels across the network to balance service and working capital.",
+        "industry": "Consumer Goods, Retail",
+        "keyConsumers": "Supply Chain",
+        "entities": "SKU, Location",
+        "businessImpact": "Cost reduction"
+    },
+    {
+        "analyticsProduct": "New Revenue Stream",
+        "businessPurpose": "Identifies and quantifies new growth opportunities beyond core offerings.",
+        "industry": "Consumer Goods",
+        "keyConsumers": "Strategy, Leadership",
+        "entities": "Product, Market",
+        "businessImpact": "Revenue expansion"
+    },
+    {
+        "analyticsProduct": "Omni Channel",
+        "businessPurpose": "Provides a unified view of customer interactions across channels to improve experience and conversion.",
+        "industry": "Consumer Goods, Retail",
+        "keyConsumers": "Marketing, Sales",
+        "entities": "Customer, Channel, SKU",
+        "businessImpact": "Revenue growth, CX improvement"
+    },
+    {
+        "analyticsProduct": "Personalization Engine",
+        "businessPurpose": "Delivers personalized offers and experiences across customer touchpoints.",
+        "industry": "Consumer Goods, E-Commerce",
+        "keyConsumers": "Marketing, Digital",
+        "entities": "Customer, Offer",
+        "businessImpact": "Conversion uplift"
+    },
+    {
+        "analyticsProduct": "POS Segmentation",
+        "businessPurpose": "Segments retail outlets to improve sales execution and trade effectiveness.",
+        "industry": "Consumer Goods, Retail",
+        "keyConsumers": "Sales, Trade Marketing",
+        "entities": "Store, Sales",
+        "businessImpact": "Execution effectiveness"
+    },
+    {
+        "analyticsProduct": "Predictive Asset Maintenance",
+        "businessPurpose": "Predicts equipment failures to reduce downtime and maintenance costs.",
+        "industry": "Manufacturing",
+        "keyConsumers": "Operations, Maintenance",
+        "entities": "Asset, Sensor",
+        "businessImpact": "Cost reduction"
+    },
+    {
+        "analyticsProduct": "Price Pack Architecture",
+        "businessPurpose": "Optimizes price and pack structures to maximize margin and consumer value.",
+        "industry": "Consumer Goods",
+        "keyConsumers": "RGM, Marketing",
+        "entities": "Product, Price",
+        "businessImpact": "Margin improvement"
+    },
+    {
+        "analyticsProduct": "Product Portfolio Analytics",
+        "businessPurpose": "Evaluates portfolio performance to guide rationalization and innovation decisions.",
+        "industry": "Consumer Goods",
+        "keyConsumers": "Strategy, R&D",
+        "entities": "Product, Brand",
+        "businessImpact": "Portfolio optimization"
+    },
+    {
+        "analyticsProduct": "Regulatory Intelligence",
+        "businessPurpose": "Monitors regulatory changes to ensure proactive compliance.",
+        "industry": "All Industries",
+        "keyConsumers": "Legal, Compliance",
+        "entities": "Regulation, Policy",
+        "businessImpact": "Compliance assurance"
+    },
+    {
+        "analyticsProduct": "Retail Execution & Compliance",
+        "businessPurpose": "Ensures in-store execution standards are met to maximize sales effectiveness.",
+        "industry": "Consumer Goods, Retail",
+        "keyConsumers": "Sales, Trade",
+        "entities": "Store, Shelf",
+        "businessImpact": "Sales uplift"
+    },
+    {
+        "analyticsProduct": "RGM",
+        "businessPurpose": "Optimizes pricing, promotions, and mix to maximize profitable growth.",
+        "industry": "Consumer Goods",
+        "keyConsumers": "Commercial, Finance",
+        "entities": "Price, Promotion",
+        "businessImpact": "Margin growth"
+    },
+    {
+        "analyticsProduct": "Route Optimization",
+        "businessPurpose": "Optimizes delivery routes to reduce logistics costs and improve service levels.",
+        "industry": "Logistics, Consumer Goods",
+        "keyConsumers": "Supply Chain",
+        "entities": "Route, Vehicle",
+        "businessImpact": "Cost reduction"
+    },
+    {
+        "analyticsProduct": "Sensible Packaging Design",
+        "businessPurpose": "Designs sustainable and cost-effective packaging solutions.",
+        "industry": "Consumer Goods",
+        "keyConsumers": "R&D, Sustainability",
+        "entities": "Packaging, Material",
+        "businessImpact": "Cost and ESG improvement"
+    },
+    {
+        "analyticsProduct": "Sensory Prediction AI",
+        "businessPurpose": "Predicts consumer sensory response to products using AI models.",
+        "industry": "Consumer Goods",
+        "keyConsumers": "R&D, Marketing",
+        "entities": "Product, Sensory Score",
+        "businessImpact": "Faster innovation"
+    },
+    {
+        "analyticsProduct": "Sentiment Analysis",
+        "businessPurpose": "Analyzes consumer sentiment across channels to inform brand and CX strategies.",
+        "industry": "Consumer Goods, Retail",
+        "keyConsumers": "Marketing",
+        "entities": "Review, Social Post",
+        "businessImpact": "Brand perception"
+    },
+    {
+        "analyticsProduct": "Strategic Workforce Planning",
+        "businessPurpose": "Aligns workforce capacity and skills with future business needs.",
+        "industry": "All Industries",
+        "keyConsumers": "HR, Leadership",
+        "entities": "Workforce, Skill",
+        "businessImpact": "Productivity improvement"
+    },
+    {
+        "analyticsProduct": "Supplier Risk 360",
+        "businessPurpose": "Provides holistic visibility into supplier risks to ensure supply continuity.",
+        "industry": "Consumer Goods, Manufacturing",
+        "keyConsumers": "Procurement",
+        "entities": "Supplier, Risk",
+        "businessImpact": "Risk mitigation"
+    },
+    {
+        "analyticsProduct": "Trade Promotion Optimization (TPO)",
+        "businessPurpose": "Optimizes trade promotions to maximize incremental sales and ROI.",
+        "industry": "Consumer Goods",
+        "keyConsumers": "Trade Marketing",
+        "entities": "Promotion, Retailer",
+        "businessImpact": "ROI improvement"
+    },
+    {
+        "analyticsProduct": "Volumetric Forecast",
+        "businessPurpose": "Forecasts demand volumes to support planning and supply decisions.",
+        "industry": "Consumer Goods, Manufacturing",
+        "keyConsumers": "Planning",
+        "entities": "SKU, Time",
+        "businessImpact": "Forecast accuracy"
+    }
+]

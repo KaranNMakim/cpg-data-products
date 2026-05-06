@@ -1,0 +1,42 @@
+{
+  "name": "CPG.ai Data Products Tool",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:22",
+
+  "features": {
+    "ghcr.io/devcontainers/features/git:1": {}
+  },
+
+  "forwardPorts": [5000, 5173],
+  "portsAttributes": {
+    "5000": {
+      "label": "Express API",
+      "onAutoForward": "silent"
+    },
+    "5173": {
+      "label": "Web App (Vite)",
+      "onAutoForward": "openBrowser"
+    }
+  },
+
+  "postCreateCommand": "bash .devcontainer/post-create.sh",
+  "postAttachCommand": {
+    "server": "echo 'Run npm start to launch both API and Web App'"
+  },
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "dbaeumer.vscode-eslint",
+        "bradlc.vscode-tailwindcss",
+        "esbenp.prettier-vscode",
+        "qwtel.sqlite-viewer"
+      ],
+      "settings": {
+        "editor.formatOnSave": false,
+        "files.eol": "\n"
+      }
+    }
+  },
+
+  "remoteUser": "node"
+}

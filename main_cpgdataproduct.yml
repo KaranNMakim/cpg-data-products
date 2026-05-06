@@ -1,0 +1,79 @@
+name: Build and deploy React app to Azure Web App - cpgdataproduct
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    env:
+      APP_SUBDIR: "Data App"
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20.x'
+          cache: 'npm'
+          cache-dependency-path: |
+            **/package-lock.json
+            **/pnpm-lock.yaml
+            **/yarn.lock
+
+      - name: Install dependencies
+        working-directory: "${{ env.APP_SUBDIR }}"
+        run: |
+          if [ -f pnpm-lock.yaml ]; then
+            corepack enable
+            pnpm install --frozen-lockfile
+          elif [ -f yarn.lock ]; then
+            yarn install --frozen-lockfile
+          else
+            npm ci
+          fi
+
+      - name: Build
+        working-directory: "${{ env.APP_SUBDIR }}"
+        env:
+          CI: true
+        run: |
+          if [ -f pnpm-lock.yaml ]; then
+            pnpm run build
+          elif [ -f yarn.lock ]; then
+            yarn build
+          else
+            npm run build
+          fi
+
+      # ✅ ALWAYS upload Vite build output ONLY
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: react-build
+          path: "${{ env.APP_SUBDIR }}/dist/**"
+          if-no-files-found: error
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: react-build
+          path: ./site
+
+      - name: Deploy to Azure Web App
+        uses: azure/webapps-deploy@v3
+        with:
+          app-name: 'cpgdataproduct'
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DDB8FD2B8597456280F4068719F275D1 }}
+          package: ./site

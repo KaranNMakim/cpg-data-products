@@ -1,0 +1,302 @@
+{
+    "Product Portfolio Performance": {
+        "analyticsProducts": {
+            "Product Portfolio Analytics": {
+                "pipelines": []
+            }
+        }
+    },
+    "Formulation Intelligence": {
+        "analyticsProducts": {
+            "GenAI Formulation Assistant": {
+                "pipelines": [
+                    "GenForm_use_case_pipeline"
+                ]
+            }
+        }
+    },
+    "Sensory Intelligence": {
+        "analyticsProducts": {
+            "Sensory Prediction AI": {
+                "pipelines": []
+            }
+        }
+    },
+    "Packaging Cost & Sustainability": {
+        "analyticsProducts": {
+            "Sensible Packaging Design": {
+                "pipelines": []
+            }
+        }
+    },
+    "Innovation Opportunity Intelligence": {
+        "analyticsProducts": {
+            "New Revenue Stream": {
+                "pipelines": [
+                    "New_Revenue_Stream_Use_Case_Pipeline_raw"
+                ]
+            }
+        }
+    },
+    "Enterprise Business Plan": {
+        "analyticsProducts": {
+            "Integrated Business Planning": {
+                "pipelines": [
+                    "INBP_use_case_pipeline_"
+                ]
+            }
+        }
+    },
+    "Sales & Demand Plan": {
+        "analyticsProducts": {
+            "Volumetric Forecast": {
+                "pipelines": []
+            }
+        }
+    },
+    "Channel & Customer Plan": {
+        "analyticsProducts": {
+            "Omni Channel": {
+                "pipelines": [
+                    "Omnichannel_use_case_pipeline"
+                ]
+            }
+        }
+    },
+    "Supplier Contract Intelligence": {
+        "analyticsProducts": {
+            "Contract Analytics": {
+                "pipelines": [
+                    "Contract_analysis_use_case_pipeline"
+                ]
+            }
+        }
+    },
+    "Supplier Risk Intelligence": {
+        "analyticsProducts": {
+            "Supplier Risk 360": {
+                "pipelines": []
+            }
+        }
+    },
+    "Manufacturing Quality Intelligence": {
+        "analyticsProducts": {
+            "Computer Vision Quality Control": {
+                "pipelines": [
+                    "Computer_Vision_use_case_pipeline"
+                ]
+            }
+        }
+    },
+    "Manufacturing Efficiency Intelligence": {
+        "analyticsProducts": {
+            "Predictive Asset Maintenance": {
+                "pipelines": []
+            }
+        }
+    },
+    "Inventory Availability Intelligence": {
+        "analyticsProducts": {
+            "Inventory Optimization (MEIO)": {
+                "pipelines": [
+                    "MEIO_use_case_pipeline"
+                ]
+            }
+        }
+    },
+    "Warehouse Operations Intelligence": {
+        "analyticsProducts": {
+            "Retail Execution & Compliance": {
+                "pipelines": []
+            }
+        }
+    },
+    "Market Performance Intelligence": {
+        "analyticsProducts": {
+            "Brand Equity Tracking": {
+                "pipelines": [
+                    "Brand_Equity_Tracking_use_case_pipeline"
+                ]
+            }
+        }
+    },
+    "Consumer Switching Intelligence": {
+        "analyticsProducts": {
+            "Sentiment Analysis": {
+                "pipelines": []
+            }
+        }
+    },
+    "RGM Pricing, Architecture & Margin Management": {
+        "analyticsProducts": {
+            "RGM": {
+                "pipelines": []
+            }
+        }
+    },
+    "Price Effectiveness Intelligence": {
+        "analyticsProducts": {
+            "Price Pack Architecture": {
+                "pipelines": []
+            }
+        }
+    },
+    "Trade Investment Intelligence": {
+        "analyticsProducts": {
+            "Trade Promotion Optimization (TPO)": {
+                "pipelines": []
+            }
+        }
+    },
+    "Route-to-Market Intelligence": {
+        "analyticsProducts": {
+            "Route Optimization": {
+                "pipelines": []
+            }
+        }
+    },
+    "Sales Productivity Intelligence": {
+        "analyticsProducts": {
+            "Strategic Workforce Planning": {
+                "pipelines": []
+            }
+        }
+    },
+    "Trade Settlement Intelligence": {
+        "analyticsProducts": {
+            "Fraud Detection (AP/AR)": {
+                "pipelines": []
+            }
+        }
+    },
+    "Liquidity Intelligence": {
+        "analyticsProducts": {
+            "Cashflow Forecasting": {
+                "pipelines": []
+            }
+        }
+    },
+    "Contract Risk Intelligence": {
+        "analyticsProducts": {
+            "Contract Risk Analytics": {
+                "pipelines": []
+            }
+        }
+    },
+    "Platform Reliability Intelligence": {
+        "analyticsProducts": {
+            "AIOps & Observability": {
+                "pipelines": [
+                    "AIOps_use_case_pipeline"
+                ]
+            }
+        }
+    },
+    "ESG Performance Intelligence": {
+        "analyticsProducts": {
+            "Emission & GHG Production": {
+                "pipelines": [
+                    "Emmision_use_case_pipeline"
+                ]
+            }
+        }
+    },
+    "ESG Compliance Intelligence": {
+        "analyticsProducts": {
+            "Regulatory Intelligence": {
+                "pipelines": []
+            }
+        }
+    },
+    "Customer & Outlet Master": {
+        "analyticsProducts": {
+            "Customer ID & Record Management": {
+                "pipelines": [
+                    "Customer_ID_Retention_use_case_pipeline"
+                ]
+            }
+        }
+    },
+    "Data Quality & Trust Foundation": {
+        "analyticsProducts": {
+            "Data Observability": {
+                "pipelines": [
+                    "Data_Observability_use_case_pipeline"
+                ]
+            }
+        }
+    },
+    "Campaign Performance Intelligence": {
+        "analyticsProducts": {
+            "Campaign Effectiveness": {
+                "pipelines": [
+                    "Campain_Effectivness_Use_Case_Pipeline_raw"
+                ]
+            }
+        }
+    },
+    "Consumer Personalization Intelligence": {
+        "analyticsProducts": {
+            "Personalization Engine": {
+                "pipelines": [
+                    "PE_use_case_pipeline"
+                ]
+            }
+        }
+    },
+    "DTC Customer Value Intelligence": {
+        "analyticsProducts": {
+            "DTC Customer Lifetime Value": {
+                "pipelines": [
+                    "CLV_use_case_pipeline"
+                ]
+            }
+        }
+    },
+    "POS Segmentation Intelligence": {
+        "analyticsProducts": {
+            "POS Segmentation": {
+                "pipelines": []
+            }
+        }
+    },
+    "Enterprise Knowledge Intelligence": {
+        "analyticsProducts": {
+            "Gen AI Knowledge Base (RAG)": {
+                "pipelines": [
+                    "GenKB_use_case_pipeline_"
+                ]
+            },
+            "GenAI HR Assistant": {
+                "pipelines": [
+                    "GenHR_use_case_pipeline_"
+                ]
+            }
+        }
+    },
+    "Employee Retention Intelligence": {
+        "analyticsProducts": {
+            "Attrition Analytics": {
+                "pipelines": [
+                    "Attrition_Analytics_use_case_pipeline"
+                ]
+            }
+        }
+    },
+    "Credit & Risk Intelligence": {
+        "analyticsProducts": {
+            "Credit Risk": {
+                "pipelines": []
+            }
+        }
+    },
+    "Content Velocity Intelligence": {
+        "analyticsProducts": {
+            "GenAI Content Factory": {
+                "pipelines": [
+                    "GenCon_use_case_pipeline"
+                ]
+            }
+        }
+    }
+}

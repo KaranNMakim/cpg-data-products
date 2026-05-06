@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+
+  html,
+  body,
+  #root {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    /* Prevents horizontal scroll on the entire page */
+    overflow-x: hidden;
+    background-color: #E9E4F5;
+    min-height: 100vh;
+  }
+}
+
+@layer utilities {
+
+  /* Helper for the uniform black table text */
+  .table-text-black {
+    @apply text-black font-semibold text-sm;
+  }
+}
